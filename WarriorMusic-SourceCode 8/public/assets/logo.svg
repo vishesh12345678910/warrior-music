@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="warriorGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE54F"/>
+      <stop offset="50%" stop-color="#FFA000"/>
+      <stop offset="100%" stop-color="#FF5500"/>
+    </linearGradient>
+    <linearGradient id="musicCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <!-- Sleek Dark Rounded Background -->
+  <rect width="64" height="64" rx="14" fill="#0B101A"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#FFA000" stroke-opacity="0.18" stroke-width="1.5"/>
+  <!-- Razor-Sharp Warrior 'W' -->
+  <path d="M12 18H19.5L26.5 38L32 25.5L37.5 38L44.5 18H52L42.5 46H36.5L32 34.5L27.5 46H21.5Z" fill="url(#warriorGold)"/>
+  <!-- Futuristic Play Triangle (Nova Music Style) -->
+  <path d="M38 24L51 32L38 40Z" fill="url(#musicCyan)"/>
+</svg>

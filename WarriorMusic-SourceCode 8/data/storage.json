@@ -1,0 +1,118 @@
+{
+  "account": {
+    "name": "vishehs",
+    "email": "visheshstartup@gmail.com",
+    "avatar": "V",
+    "signedIn": false,
+    "connectedAt": 1795271484094
+  },
+  "collections": [],
+  "saved": [
+    {
+      "id": "ysSq218zW4E",
+      "title": "Downers at Dusk",
+      "artists": "Talha Anjum",
+      "album": "",
+      "duration": 256,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=ysSq218zW4E",
+      "cover": "https://i.ytimg.com/vi/ysSq218zW4E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDyek9UEsEVwxqMCO2AbJsWfAEb1g"
+    }
+  ],
+  "recents": [
+    {
+      "id": "vsl3gBVO2k4",
+      "title": "Bohemian Rhapsody",
+      "artists": "Queen",
+      "duration": 359,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=vsl3gBVO2k4",
+      "cover": "https://i.ytimg.com/vi/vsl3gBVO2k4/hqdefault.jpg"
+    },
+    {
+      "id": "_OtSc_bQ6d8",
+      "title": "See You Again",
+      "artists": "Wiz Khalifa ft. Charlie Puth",
+      "duration": 237,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=_OtSc_bQ6d8",
+      "cover": "https://i.ytimg.com/vi/_OtSc_bQ6d8/hqdefault.jpg"
+    },
+    {
+      "id": "liTfD88dbCo",
+      "title": "Shape of You",
+      "artists": "Ed Sheeran",
+      "duration": 263,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=liTfD88dbCo",
+      "cover": "https://i.ytimg.com/vi/liTfD88dbCo/hqdefault.jpg"
+    },
+    {
+      "id": "Y8S8S0gBk4E",
+      "title": "Despacito",
+      "artists": "Luis Fonsi, Daddy Yankee",
+      "duration": 282,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=Y8S8S0gBk4E",
+      "cover": "https://i.ytimg.com/vi/Y8S8S0gBk4E/hqdefault.jpg"
+    },
+    {
+      "id": "Glhmg77LfAo",
+      "title": "I Met Her Again ❤️ | Maan Pannu | Weathering With You AMV | Anime Edit",
+      "artists": "ANNIVERSE",
+      "album": "",
+      "duration": 227,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=Glhmg77LfAo",
+      "cover": "https://i.ytimg.com/vi/dp8L2PgFqRs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfYADVYZTFPqYSUlvJJIaof_esvg",
+      "_retryCount": 1
+    },
+    {
+      "id": "dp8L2PgFqRs",
+      "title": "I Met Her Again ❤️ | Maan Pannu | Weathering With You AMV | Anime Edit",
+      "artists": "ANNIVERSE",
+      "album": "",
+      "duration": 227,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=dp8L2PgFqRs",
+      "cover": "https://i.ytimg.com/vi/dp8L2PgFqRs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfYADVYZTFPqYSUlvJJIaof_esvg"
+    },
+    {
+      "id": "vz3cbbNQ454",
+      "title": "They Came To Measure My Pain Here Song | I met her again - Maan Panu | New Hindi Song",
+      "artists": "4You Music",
+      "album": "",
+      "duration": 265,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=vz3cbbNQ454",
+      "cover": "https://i.ytimg.com/vi/vz3cbbNQ454/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAiuAB8vbhp6HSyhwXgNQ-Qu7O3TA"
+    },
+    {
+      "id": "kz0kbFmB7FU",
+      "title": "Maan Panu - The Last Letter (Official Music Video)",
+      "artists": "Maan Panu and Sony Music India",
+      "album": "",
+      "duration": 169,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=kz0kbFmB7FU",
+      "cover": "https://i.ytimg.com/vi/kz0kbFmB7FU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFgNqqQGYqVJGn127zqOfZVQ9FNg"
+    },
+    {
+      "id": "TS054N1fGAQ",
+      "title": "I Met Her Again - Maan Panu | (Lyrics)",
+      "artists": "THE LYRICIST",
+      "album": "",
+      "duration": 217,
+      "kind": "song",
+      "link": "https://music.youtube.com/watch?v=TS054N1fGAQ",
+      "cover": "https://i.ytimg.com/vi/TS054N1fGAQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6POnhQZRLCvTU0F3PLEnnAQoCeQ"
+    }
+  ],
+  "preferences": {
+    "theme": "system",
+    "motion": false,
+    "centered": true,
+    "remaining": false,
+    "lyrics": true
+  }
+}
